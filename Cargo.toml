@@ -2,7 +2,7 @@
 [package]
 name = "snake_game"
 version = "0.1.0"
-authors = ["Your Name <youremail@example.com>"]
+authors = ["Jerry Tan"]
 edition = "2021"
 
 # Dependencies
