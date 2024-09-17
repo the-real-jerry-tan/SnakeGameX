@@ -1,0 +1,28 @@
+
+# Ignore the target directory where Rust builds the project
+target/
+
+# Ignore IDE/editor configuration files and temporary files
+.idea/
+*.iml
+*.swp
+*.DS_Store
+*.vs/
+
+# Ignore backup files and logs
+*~
+*.log
+
+# Ignore environment files
+.env
+
+# Ignore compiled output files
+*.o
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore Rust documentation and cache
+/doc/
+*.cache
