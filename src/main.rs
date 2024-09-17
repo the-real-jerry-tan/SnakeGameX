@@ -1,6 +1,6 @@
 
 // main.rs
-// Copyright (c) 2024 Your Name
+// Copyright (c) 2024 Jerry Tan
 // This code is licensed under the MIT License.
 
 // This is the main entry point for the Snake Game with a Text User Interface (TUI).
